@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <h1>This is first page</h1>
-</body>
-</html>
+<a href="teams"> Student Home</a>
+<a href="/contact">Home</a>
+<a href="/about">Welcome</a>
+<a href="{{route('product.service')}}">List</a>
+<h1>Homepage</h1>
